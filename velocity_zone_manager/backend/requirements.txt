@@ -1,9 +1,0 @@
-Flask==3.0.0
-Flask-SQLAlchemy==3.1.1
-Flask-Cors==4.0.0
-PyJWT==2.8.0
-bcrypt==4.0.1
-psycopg2-binary==2.9.9
-Shapely==2.0.2
-pytest==7.4.3
-requests==2.31.0
